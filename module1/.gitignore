@@ -1,10 +1,2 @@
-/pom.xml
-/lib
-/classes
-/native
-/.lein-failures
-/.lein-plugins
-/checkouts
-/.lein-deps-sum
-/.lein-cljsbuild*
-/resources/gen
+/_site
+_site
