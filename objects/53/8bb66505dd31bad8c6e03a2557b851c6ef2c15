@@ -1,0 +1,17 @@
+[object]
+	state = initial
+[map "5d83d8e6-9148-387c-9752-bfe15a4fd634"]
+	object = 987f4d165a827261e41bfed8d26b854244a30992
+	type = extract tree + exclude
+[map "e492a568-d6a1-36f2-98cf-db547a7cd408"]
+	object = 20bc6ac4519e62ed8b0026b596b2940f82927bfa
+	path = module1
+	type = expand module
+[map "832835ab-51e7-3486-b341-364f95e8faad"]
+	object = 20bc6ac4519e62ed8b0026b596b2940f82927bfa
+	path = module
+	type = expand module
+[map "a93eb716-73bc-3e12-8609-a029d9b0b5b8"]
+	object = 20bc6ac4519e62ed8b0026b596b2940f82927bfa
+	path = module2
+	type = expand module
