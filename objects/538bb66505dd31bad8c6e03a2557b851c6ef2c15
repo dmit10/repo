@@ -1,6 +1,10 @@
 [object]
 	state = initial
-[map "937b07e1-81fe-3dfd-be52-6b1415106578"]
-	object = 353b61b53bd49e9e220006896f4af2d6bc2a7d69
+[map "ad6f6a09-b0c8-3307-aeea-da17455c81a1"]
+	object = 0f2c7b2764d09606a2b0394ef8722f7f90ad99c2
 	path = module
+	type = expand module
+[map "c9884d82-0578-3d54-a508-6db59e28c7f8"]
+	object = 0f2c7b2764d09606a2b0394ef8722f7f90ad99c2
+	path = module1
 	type = expand module
