@@ -19,7 +19,11 @@
 	object = 767efe2ac23adbdeea95537c0b60331fa42553d8
 	path = module5
 	type = expand module
-[map "b2e5eec0-60f1-3c62-af86-bf5b4dc6a40e"]
-	object = f216b0c28c3c0ac753a2b40183f3a9aad6b8f571
+[map "a86a6687-40d1-30b4-bce5-238652e7cb3f"]
+	object = 32c65bddefb508d85a8dda82aadc68e681bc2059
 	path = module1
+	type = expand module
+[map "8bdd5dad-0f5f-31de-8127-aad4e4252d97"]
+	object = 32c65bddefb508d85a8dda82aadc68e681bc2059
+	path = module3
 	type = expand module
